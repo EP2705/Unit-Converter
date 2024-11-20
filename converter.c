@@ -1,6 +1,5 @@
 /*
 Unit Converter
-Eliandro Pizzonia 251363956
 CS 2211
 
 this program converts a given quantity from one measuring unit to another
